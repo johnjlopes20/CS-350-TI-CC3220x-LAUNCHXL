@@ -1,6 +1,6 @@
 # CS-350-TI-CC3220x-LAUNCHXL
 
-# CS-350-TI-CC3220x-LAUNCHXL
+
 
 **Project Summary and Problem Solving**
 The project involved implementing GPIO (General Purpose Input/Output) interrupts on a Texas Instruments microcontroller. The primary objective was to create a simple system where pressing a button toggles the state of an LED. This setup demonstrates the fundamental use of GPIO interrupts, which is crucial for handling real-time hardware events efficiently.
